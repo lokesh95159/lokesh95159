@@ -71,9 +71,8 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your link)
-- 📧 Email: (Add your email)
-- 🌐 Portfolio: (Add your portfolio link)
+- 💼 LinkedIn: https://www.linkedin.com/in/karanki-lokesh-246118270
+- 📧 Email: lokesh95159@gmail.com
 
 ---
 
