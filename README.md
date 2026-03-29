@@ -1,88 +1,82 @@
-<h1 align="center">Hi 👋, I'm Lokesh</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Expert;AI+&++ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Hi,%20I'm%20Lokesh%20👋&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;AI+&++ML+Researcher;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
-
-I am a **B.Tech CSE (AI Specialization)** student and a passionate **Full Stack Developer** dedicated to building scalable and secure web applications. My expertise lies in the **MERN Stack** and integrating **Artificial Intelligence** into real-world solutions.
-
-- 🎓 **Specialization:** Artificial Intelligence & Machine Learning.
-- 🔐 **Security:** Experienced in building secure apps with **JWT Authentication**.
-- ⚡ **Efficiency:** Strong focus on **React**, **Node.js**, and **System Design**.
-- 🧠 **Learning:** Currently diving deeper into **Explainable AI (XAI)** and **Deep Learning**.
+## 💫 About Me
+<table align="center">
+  <tr>
+    <td width="50%" style="vertical-align: top;">
+      <h3>🚀 Quick Bio</h3>
+      <ul>
+        <li>🎓 <b>B.Tech in CSE</b> (Specializing in Artificial Intelligence)</li>
+        <li>💻 Passionate <b>Full Stack Developer</b> using the MERN stack</li>
+        <li>🔐 Security Expert: Specialized in <b>JWT & OAuth</b></li>
+        <li>🧠 Currently exploring <b>Explainable AI (XAI)</b> for Digital Forensics</li>
+      </ul>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh95159&layout=compact&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Universe
 
-### 🌐 Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+### 🌐 Frontend & UI/UX
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-</p>
+### ⚙️ Backend & Infrastructure
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
 ### 🧠 AI & Data Science
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+## 📊 Performance Metrics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lokesh95159&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lokesh95159&theme=dracula&border_radius=10" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🎨 Creative Projects
+> *“Building the bridge between logic and imagination.”*
 
-### 🛡️ Full Stack To-Do Application (Secured)
-*A task management system built with the MERN stack featuring advanced security layers.*
-- **Core:** React, Node.js, Express, MongoDB.
-- **Key Feature:** Implemented **JWT-based authentication** and private routing for user data isolation.
-
-### 🔬 AI Specialization Projects
-*Coming from a CSE-AI background, I enjoy blending code with intelligence.*
-- **Deep Learning Architectures:** Experience with CNNs and U-Net for computer vision tasks.
-- **XAI Frameworks:** Working on Explainable AI for digital forensics.
-
-### 🎮 Interactive Mini-Apps
-- **Currency Converter:** Real-time API integration for exchange rates.
-- **Portfolio Website:** Clean UI with smooth animations and responsive design.
+- 🛡️ **MERN To-Do Pro:** A fully encrypted task manager with seamless JWT auth.
+- 🖼️ **DL Architecture Visuals:** Developed custom CNN/U-Net visualizations for research papers.
+- 🕹️ **Logic Games:** High-performance JS engines for Rock-Paper-Scissors and Tic-Tac-Toe.
 
 ---
 
-## 📊 My GitHub Journey
-
+## ⚡ Daily Status
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokesh95159&show_icons=true&theme=radical&rank_icon=github" alt="Lokesh's Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokesh95159&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lokesh95159&theme=react-dark&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
 
-## ⚡ Fun Fact
-> "There is no limit to think 💡 — especially when the code is compiling."
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lokesh95159&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=lokesh95159&label=PROFILE+VIEWS&color=0078d7&style=flat-square" alt="lokesh95159" />
+</p>
+
+<p align="center"> 
+  <b>"There is no limit to think 💡"</b><br>
+  ⭐️ from <a href="https://github.com/lokesh95159">lokesh95159</a>
 </p>
