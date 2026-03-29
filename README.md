@@ -1,104 +1,88 @@
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dwaving%26color%3Dauto%26height%3D250%26section%3Dheader%26text%3DLokesh%2520Karanki%26fontSize%3D70%26animation%3DfadeIn%26fontAlignY%3D35" width="100%" />
-
-<h1>🚀 Full Stack Developer & AI Enthusiast</h1>
-
+<h1 align="center">Hi 👋, I'm Lokesh</h1>
 <p align="center">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/lokesh-karanki-0a159521a"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
-<a href="mailto:lokesh95159@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a>
-<a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Expert;AI+&++ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
 
-⚡ "There is no limit to thinking" 💡
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-</div>
+---
 
-📖 About Me
+## 🚀 About Me
 
-I am a Full Stack Developer currently pursuing my M.Tech in Computer Science and Engineering at MITS. With a strong foundation in B.Tech (AI), I bridge the gap between robust backend architectures and intelligent machine learning systems.
+I am a **B.Tech CSE (AI Specialization)** student and a passionate **Full Stack Developer** dedicated to building scalable and secure web applications. My expertise lies in the **MERN Stack** and integrating **Artificial Intelligence** into real-world solutions.
 
-🎓 M.Tech Student (CSE) | CGPA: 8.38
+- 🎓 **Specialization:** Artificial Intelligence & Machine Learning.
+- 🔐 **Security:** Experienced in building secure apps with **JWT Authentication**.
+- ⚡ **Efficiency:** Strong focus on **React**, **Node.js**, and **System Design**.
+- 🧠 **Learning:** Currently diving deeper into **Explainable AI (XAI)** and **Deep Learning**.
 
-🧠 Specializing in Artificial Intelligence and Deep Learning.
+---
 
-🛠️ Expert in MERN Stack development and REST API design.
+## 🛠️ Tech Stack
 
-🔬 Published 5 Scopus-indexed research papers in high-impact AI domains.
+### 🌐 Web Development
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-💡 Passionate about building scalable, production-ready applications that solve real-world problems.
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+</p>
 
-🛠️ Technical Arsenal
+### 🧠 AI & Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
-💻 Web Development
+---
 
-🤖 AI / Machine Learning
+## 📌 Featured Projects
 
-🗄️ Database & Tools
+### 🛡️ Full Stack To-Do Application (Secured)
+*A task management system built with the MERN stack featuring advanced security layers.*
+- **Core:** React, Node.js, Express, MongoDB.
+- **Key Feature:** Implemented **JWT-based authentication** and private routing for user data isolation.
 
-🔬 Featured Research (Scopus Indexed)
+### 🔬 AI Specialization Projects
+*Coming from a CSE-AI background, I enjoy blending code with intelligence.*
+- **Deep Learning Architectures:** Experience with CNNs and U-Net for computer vision tasks.
+- **XAI Frameworks:** Working on Explainable AI for digital forensics.
 
-I focus on applying Deep Learning to healthcare and security. Some of my published works include:
+### 🎮 Interactive Mini-Apps
+- **Currency Converter:** Real-time API integration for exchange rates.
+- **Portfolio Website:** Clean UI with smooth animations and responsive design.
 
-🏥 Gastric Cancer Detection: Comparative analysis of DL architectures for image classification.
+---
 
-🫁 Comorbidity Forecasting in Asthma: A multimodal learning approach using clinical & environmental data.
+## 📊 My GitHub Journey
 
-🎙️ Audio Forgery Alert: Uncovering artificial audio with Deepfake detection techniques.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lokesh95159&show_icons=true&theme=radical&rank_icon=github" alt="Lokesh's Stats" />
+</p>
 
-📌 Top Projects
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokesh95159&theme=radical" alt="GitHub Streak" />
+</p>
 
-🚨 Real-Time Accident Detection System
+---
 
-Tech Stack: YOLOv8 (n/s), CNN, OpenCV, Python.
+## ⚡ Fun Fact
+> "There is no limit to think 💡 — especially when the code is compiling."
 
-Achieved 98% precision using YOLOv8s for real-time localization.
-
-Integrated a CNN classifier for severity prediction and automated SMS alerts.
-
-📝 Full Stack Task Management (MERN)
-
-Tech Stack: React, Node.js, Express, MongoDB, JWT.
-
-Secure authentication system with protected routes.
-
-Fully responsive UI with complete CRUD capabilities.
-
-✍️ Handwritten Character Recognition
-
-Tech Stack: TensorFlow, Keras, NumPy.
-
-Built a lightweight CNN from scratch (138K parameters).
-
-Achieved 92.72% accuracy on a dataset of 425K+ images.
-
-🏆 Achievements & Stats
-
-<div align="center">
-
-Platform
-
-Solved
-
-GeeksforGeeks
-
-200+ Problems
-
-LeetCode
-
-170+ Problems
-
-</div>
-
-📫 Let's Connect!
-
-🤝 I’m looking to collaborate on Open Source AI Projects or Full Stack Web Applications.
-
-💬 Ask me about MERN Stack, Deep Learning, or SQL.
-
-📧 Email: lokesh95159@gmail.com
-
-<br />
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dlokesh95159%26color%3Dblueviolet" alt="Profile Views" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lokesh95159&color=blue" alt="Profile Views" />
+</p>
